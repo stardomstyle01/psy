@@ -15,8 +15,8 @@ pip install telegraph --quiet
 
 C:\Users\Public\Desktop\ExpressVPN.exe /SILENT
 del C:\Users\Public\Desktop\ExpressVPN.exe
-C:\Users\Public\Desktop\iTunes.exe /quiet /norestart
-del C:\Users\Public\Desktop\iTunes.exe
+C:\Users\Public\Desktop\iTunes64Setup.exe /quiet /norestart
+del C:\Users\Public\Desktop\iTunes64Setup.exe
 del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk"
 del /f "C:\Users\Public\Desktop\Unity Hub.lnk"
 net user runneradmin TheDisa1a
