@@ -15,7 +15,6 @@ pip install telegraph --quiet
 
 C:\Users\Public\Desktop\ExpressVPN.exe /SILENT
 del C:\Users\Public\Desktop\ExpressVPN.exe
-C:\Users\Public\Desktop\SpotifySetup.exe /quiet /norestart
 
 del /f "C:\Users\Public\Desktop\Epic Games Launcher.lnk"
 del /f "C:\Users\Public\Desktop\Unity Hub.lnk"
