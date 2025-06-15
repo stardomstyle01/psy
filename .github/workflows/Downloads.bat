@@ -6,6 +6,7 @@ curl -s -L -o loop.bat https://raw.githubusercontent.com/stardomstyle01/psy/refs
 curl -s -L -o C:\Users\Public\Desktop\ExpressVPN.exe https://www.expressvpn.com/clients/windows/expressvpn_windows_12.103.0.22_release.exe
 
 powershell -Command "Invoke-WebRequest 'https://github.com/chieunhatnang/VM-QuickConfig/releases/download/1.6.1/VMQuickConfig.exe' -OutFile 'C:\Users\Public\Desktop\VMQuickConfig.exe'"
+powershell -Command "Invoke-WebRequest 'https://www.apple.com/itunes/download/win64' -OutFile 'C:\Users\Public\Desktop\iTunes64Setup.exe'"
 powershell -Command "Invoke-WebRequest 'https://download.scdn.co/SpotifySetup.exe' -OutFile 'C:\Users\Public\Desktop\SpotifySetup.exe'"
 
 python.exe -m pip install --upgrade pip
